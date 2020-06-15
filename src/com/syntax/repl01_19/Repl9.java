@@ -16,8 +16,4 @@ public class Repl9 {
 //Output:
 //The multiplication of ___ value with itself is equal to ___
 
-//Test--------2 from Goz
-
-//Test for changes and push the code ///////
-
-//TEST 4:24pm
+//Test--------2 from Gozde
