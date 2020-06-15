@@ -15,3 +15,5 @@ public class Repl9 {
 //
 //Output:
 //The multiplication of ___ value with itself is equal to ___
+
+//Test--------2 from Goz
