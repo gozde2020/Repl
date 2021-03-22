@@ -24,7 +24,7 @@ JUnit is a simple framework to write repeatable tests. It is an instance of the 
 ### Routes Tested
 
 The following HTTP method is tested:
-•	GET
+-	GET
 
 
 # REST Assured
@@ -33,27 +33,27 @@ Rest-Assured is a Java-based library that is used to test RESTful Web Services. 
 
 ### Integrated Development Environment
 Eclipse IDE is used to develop this framework
-•	Open file in Eclipse:..\api-automation\src\test\java\com.vutility.API.HardCodedOrgs
-•	Right click=>Run As
-•	Junit Test
+-	Open file in Eclipse:..\api-automation\src\test\java\com.vutility.API.HardCodedOrgs
+-	Right click=>Run As
+-	Junit Test
 
 
 
 ### Configuration on pom.xml
-•	Go to project in Eclipse: api-automation 
-•	Open pom.xml file
-•	Add the following dependency:
+-	Go to project in Eclipse: api-automation 
+-	Open pom.xml file
+-	Add the following dependency:
 
 
 
 ### Run Tests with pom.xml
-•	Go to project in Eclipse: api-automation 
-•	Open pom.xml file
-•	Right click=>Run As=>Maven clean
-•	Confirm BUILD SUCCESS
-•	Go back to pom.xml
-•	Right click=>Run As=>Maven Test
-•	Confirm BUILD SUCCESS and Test Running
+-	Go to project in Eclipse: api-automation 
+-	Open pom.xml file
+-	Right click=>Run As=>Maven clean
+-	Confirm BUILD SUCCESS
+-	Go back to pom.xml
+-	Right click=>Run As=>Maven Test
+-	Confirm BUILD SUCCESS and Test Running
 
 ### Run Tests with Command Prompt
 •	Install Maven with Homebrew
