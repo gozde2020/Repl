@@ -14,7 +14,7 @@ api-automation
 
 This is a RESTful API testing Framework using Java, Maven, JUnit, REST Assured 
 
-![Screenshot](Maven.png)
+![Screenshot](maven.png)
 
 Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. https://maven.apache.org/
 
