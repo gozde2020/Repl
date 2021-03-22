@@ -7,7 +7,7 @@ Apache Maven is a software project management and comprehension tool. Based on t
 
 JUnit  
 
-![Screenshot](Rest.png)
+![Screenshot](imgTest.png)
 
 
 api-automation
