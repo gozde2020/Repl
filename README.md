@@ -57,9 +57,9 @@ Eclipse IDE is used to develop this framework
 
 ### Run Tests with Command Prompt
 •	Install Maven with Homebrew
-'''
+,,,
 brew install maven
 mvn clean
 mvn test
-'''
+,,,
 
