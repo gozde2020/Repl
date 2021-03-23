@@ -18,8 +18,7 @@ JUnit is a simple framework to write repeatable tests. It is an instance of the 
 Rest-Assured is a Java-based library that is used to test RESTful Web Services. This library behaves like a headless Client to access REST web services. We can create highly customize-able HTTP Requests to send to the Restful server.http://rest-assured.io/
 
 ### Routes Tested
-T
-he following HTTP method is tested:
+The following HTTP method is tested:
 -	GET
 
 ### Integrated Development Environment
