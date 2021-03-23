@@ -59,11 +59,11 @@ Eclipse IDE is used to develop this framework
 -	Confirm Test Running and BUILD SUCCESS
 
 ### Run Tests with Command Prompt
-•	Install Maven with Homebrew
+-	Install Maven with Homebrew
         - Open terminal
         - Run _brew install maven_ command
         - Confirm installed maven by running _mvn -v_ command
-•	Change your directory to api-automation project and run the following commands;
+-	Change your directory to api-automation project and run the following commands;
 ```
 mvn clean
 mvn test
