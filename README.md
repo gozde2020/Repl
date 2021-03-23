@@ -62,7 +62,8 @@ Eclipse IDE is used to develop this framework
    - Open terminal
    - Run _brew install maven_ 
    - Confirm maven intalled by running _mvn -v_ 
-2. Change your directory to api-automation project and run the following commands;
+2. Change your directory to api-automation project 
+3. Run following commands;
 ```
 mvn clean
 mvn test
