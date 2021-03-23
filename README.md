@@ -45,15 +45,14 @@ Eclipse IDE is used to develop this framework
 					<testFailureIgnore>true</testFailureIgnore>
 				</configuration>
 			</plugin>
-      </plugins>
-	</build>
-
+     		 </plugins>
+  </build>
 
 
 ### Run Tests with pom.xml
 -	Go to project in Eclipse: api-automation 
 -	Open pom.xml file
--	Right click=>Run As=> Maven clean
+-	Right click=> Run As=> Maven clean
 -	Confirm BUILD SUCCESS
 -	Go back to pom.xml
 -	Right click=> Run As=> Maven Test
@@ -61,8 +60,11 @@ Eclipse IDE is used to develop this framework
 
 ### Run Tests with Command Prompt
 •	Install Maven with Homebrew
+        - Open terminal
+        - Run _brew install maven_ command
+        - Confirm installed maven by running _mvn -v_ command
+•	Change your directory to api-automation project and run the following commands;
 ```
-brew install maven
 mvn clean
 mvn test
 ```
