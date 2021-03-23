@@ -60,8 +60,8 @@ Eclipse IDE is used to develop this framework
 ### Run Tests with Command Prompt
 1. Install Maven with Homebrew
    - Open terminal
-   - Run _brew install maven_ command
-   - Confirm installed maven by running _mvn -v_ command
+   - Run _brew install maven_ 
+   - Confirm maven intalled by running _mvn -v_ 
 2. Change your directory to api-automation project and run the following commands;
 ```
 mvn clean
