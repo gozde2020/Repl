@@ -61,7 +61,7 @@ Eclipse IDE is used to develop this framework
 1. Install Maven with Homebrew
    - Open terminal
    - Run _brew install maven_ 
-   - Confirm maven intalled by running _mvn -v_ 
+   - Confirm maven installed by running _mvn -v_ 
 2. Change your directory to api-automation project 
 3. Run following commands;
 ```
