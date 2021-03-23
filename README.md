@@ -45,8 +45,8 @@ Eclipse IDE is used to develop this framework
 					<testFailureIgnore>true</testFailureIgnore>
 				</configuration>
 			</plugin>
-     		 </plugins>
-  </build>
+     	</plugins>
+   </build>
 
 
 ### Run Tests with pom.xml
